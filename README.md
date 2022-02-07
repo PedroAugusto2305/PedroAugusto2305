@@ -1,4 +1,7 @@
-### Olá!! Eu sou o Pedro Augusto
+### Olá!! Eu sou o Pedro Augusto.
+Sou estudante de desenvolvimento Front-end. Atualmente estou no primeiro semestre do curso de Análise e Desenvolvimento de Sistemas na ETEP. 
+Sou apaixonado por tecnologia e criatividade, tenho a convicção de que com a tecnologia podemos mudar o mundo! 
+
 
 <div align="center">
   <a href="https://github.com/PedroAugusto2305">
