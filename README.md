@@ -1,5 +1,5 @@
 ### Olá!! Eu sou o Pedro Augusto.
-Sou estudante de desenvolvimento Front-end. Atualmente estou no segundo semestre do curso de Análise e Desenvolvimento de Sistemas. 
+Sou estudante de desenvolvimento Front-end. Atualmente cursando Ciências da Computação. 
 Sou apaixonado por tecnologia e criatividade, tenho a convicção de que com a tecnologia podemos mudar o mundo! 
 
 
