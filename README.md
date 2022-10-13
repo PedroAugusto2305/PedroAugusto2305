@@ -1,6 +1,6 @@
-### Olá!! Eu sou o Pedro Augusto.
+<!-- ### Olá!! Eu sou o Pedro Augusto.
 Sou estudante de desenvolvimento Front-end. Atualmente cursando Ciências da Computação. 
-Sou apaixonado por tecnologia e criatividade, tenho a convicção de que com a tecnologia podemos mudar o mundo! 
+Sou apaixonado por tecnologia e criatividade, tenho a convicção de que com a tecnologia podemos mudar o mundo! -->
 
 
 <div align="center">
