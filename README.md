@@ -7,6 +7,7 @@
 
 <p align="left">
   🦄 Tecnologias: <strong>JavaScript, HTML5, CSS3, MySQL.</strong>
+  📚 Estudando: <strong> Programação funcional com Elixir.</strong>
 </p>
 
 <p align="left">
