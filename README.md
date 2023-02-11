@@ -26,6 +26,8 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/eupedro.js"/></a>
 </p> 
 
+
+
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedroaugusto2305&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedroaugusto2305&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedroaugusto2305&theme=nord_dark) |
 | :-: | :-: | :-: |
 
