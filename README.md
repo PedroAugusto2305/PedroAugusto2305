@@ -24,6 +24,8 @@
 
   <a href="https://www.instagram.com/eupedro.js" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/eupedro.js"/></a>
-</p>  
+</p> 
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedroaugusto2305&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=rodrigodornelles&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedroaugusto2305&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedroaugusto2305&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedroaugusto2305&theme=nord_dark) |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedroaugusto2305&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=pedroaugusto2305&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
