@@ -1,35 +1,63 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador PedroAugusto">
+<div>
+  <a target="_blank" href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a target="_blank" href="#">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>  <a target="_blank" href="#">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>  <a target="_blank" href="#">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+</div>
 
-<p align="left"> 
-  Olá, me chamo Pedro Augusto tenho 26 anos e sou <strong>Desenvolvedor Front-end</strong>.<br>
-  Atualmente estou cursando Ciências da Computação.
-</p>
+# Olá a todos!
 
-<p align="left">
-  🦄 Tecnologias: <strong>JavaScript, HTML5, CSS3, MySQL.</strong>
-</p>
+Eu sou Pedro Augusto, estudante de Ciência da Computação. Minha paixão é programar para resolver desafios usando códigos eficazes. Estou aqui para compartilhar projetos e ideias, explorando o vasto campo da tecnologia.
 
-<p align="left">
-  💼 Ferramentas: <strong>Figma, Adobe XD, Notion.</strong>
-</p>
+Fique à vontade para explorar meus trabalhos e entrar em contato. Juntos, podemos mergulhar no emocionante mundo da programação!
 
-<p align="left">
-  💌 Você pode me encontrar em: ⤵️
-</p>
+## Stack Principal
 
-<p align="left">
-  
-  <a href="https://www.linkedin.com/in/pedro-augusto-bueno-de-aquino-3a428b145" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-augusto-bueno-de-aquino-3a428b145" /></a>
+<div>
 
-  <a href="https://www.instagram.com/eupedro.js" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/eupedro.js"/></a>
-</p> 
+  <a target="_blank" href="#">
+    <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
+  </a>
+  <a target="_blank" href="#">
+    <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  </a>
+  <a target="_blank" href="#">
+    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" />
+  </a>
+  <a target="_blank" href="#">
+    <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
+  </a>
+</div>
 
+## Estudando
 
+<div>
+  <a target="_blank" href="#">
+    <img src="https://img.shields.io/badge/Clojure-5881D8.svg?style=for-the-badge&logo=Clojure&logoColor=white" />
+  </a>
+  <a target="_blank" href="#">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  </a>
+  <a target="_blank" href="#">
+    <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" />
+  </a>
+</div>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pedroaugusto2305&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pedroaugusto2305&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pedroaugusto2305&theme=nord_dark) |
-| :-: | :-: | :-: |
+## Informações Detalhadas
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedroaugusto2305&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=pedroaugusto2305&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
-| :-: | :-: |
+- **Nome**: Pedro Augusto Bueno de Aquino
+- **Idade**: 26 anos
+- **Cidade**: Taubaté - SP, Brasil
+- **Universidade**: Anhanguera Taubaté
+
+## Curiosidades
+
+- Sou aficcionado em heróis de quadrinhos e animes;
+- Minha comida favorita é Sushi;
+- Tenho dois doguinhos que são minha vida
+- Eu amo ajudar outras pessoas.
