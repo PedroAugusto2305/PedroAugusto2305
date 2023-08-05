@@ -12,7 +12,7 @@
 
 # Olá a todos!
 
-Eu sou Pedro Augusto, estudante de Ciência da Computação. Minha paixão é programar para resolver desafios usando códigos eficazes. Estou aqui para compartilhar projetos e ideias, explorando o vasto campo da tecnologia.
+Eu sou Pedro, estudante de Ciência da Computação. Minha paixão é programar para resolver desafios usando códigos eficazes. Estou aqui para compartilhar projetos e ideias, explorando o vasto campo da tecnologia.
 
 Fique à vontade para explorar meus trabalhos e entrar em contato. Juntos, podemos mergulhar no emocionante mundo da programação!
 
