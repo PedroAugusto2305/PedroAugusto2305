@@ -20,9 +20,9 @@ Fique à vontade para explorar meus trabalhos e entrar em contato. Juntos, podem
 
 <div>
 
-  <a target="_blank" href="#">
+ <!-- <a target="_blank" href="#">
     <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
-  </a>
+  </a> -->
   <a target="_blank" href="#">
     <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   </a>
