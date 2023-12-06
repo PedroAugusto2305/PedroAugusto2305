@@ -38,7 +38,7 @@ I like computers, engineering, functional programming and algebra. (not in this 
 ## About me
 
 - **Name**: Pedro Augusto
-- **Age**: 27 anos
+- **Age**: 27
 - **Country**: Brasil
 - **University**: Anhanguera
 <div>
