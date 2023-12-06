@@ -1,10 +1,8 @@
-# Olá a todos!
+# Hi, everyone!
 
-Olá, sou o Pedro, estudando Ciência da Computação por amor à tecnologia. Me empolgo com a ideia de usar a programação para solucionar problemas reais - é aí que me sinto em casa. Este espaço é onde compartilho meus projetos e as ideias que surgem enquanto navego por este universo incrível que é a tecnologia.
+I like computers, engineering, functional programming and algebra. (not in this order 😅) 
 
-Sinta-se convidado a dar uma olhada no que venho fazendo e, se quiser, entre em contato. Vamos conversar sobre programação e tudo o que ela nos permite criar e descobrir!
-
-## Stack Principal
+## Stack that i work recently
 
 <div>
 
@@ -23,7 +21,7 @@ Sinta-se convidado a dar uma olhada no que venho fazendo e, se quiser, entre em 
 
 </div>
 
-## Estudando
+## Current studies
 
 <div>
   <a target="_blank" href="#">
@@ -32,14 +30,17 @@ Sinta-se convidado a dar uma olhada no que venho fazendo e, se quiser, entre em 
   <a target="_blank" href="#">
     <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" />
   </a>
+  <a target="_blank" href="#">
+    <img src="https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white" />
+  </a>
 </div>
 
-## Sobre Mim
+## About me
 
-- **Nome**: Pedro Augusto
-- **Idade**: 27 anos
-- **Cidade**: Taubaté - SP, Brasil
-- **Universidade**: Faculdade Anhanguera de Taubaté
+- **Name**: Pedro Augusto
+- **Age**: 27 anos
+- **Country**: Brasil
+- **University**: Anhanguera
 <div>
   <a target="_blank" href="https://www.linkedin.com/in/pedro-augusto-bueno-de-aquino-3a428b145/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
