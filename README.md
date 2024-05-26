@@ -1,8 +1,8 @@
 # Hi, everyone!
 
-I like computers, engineering, functional programming and algebra. (not in this order 😅) 
+I like computers, engineering and algebra. (not in this order 😅) 
 
-## Stack that i work recently
+## My main Stack
 
 <div>
 
@@ -25,13 +25,10 @@ I like computers, engineering, functional programming and algebra. (not in this 
 
 <div>
   <a target="_blank" href="#">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   </a>
   <a target="_blank" href="#">
-    <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" />
-  </a>
-  <a target="_blank" href="#">
-    <img src="https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white" />
+    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
   </a>
 </div>
 
