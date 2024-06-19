@@ -9,9 +9,6 @@ I like computers, engineering and algebra. (not in this order 😅)
   <a target="_blank" href="#">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   </a>
-  <a target="_blank" href="#"> 
-      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  </a>
   <a target="_blank" href="#">
     <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   </a>
@@ -24,8 +21,14 @@ I like computers, engineering and algebra. (not in this order 😅)
 ## Current studies
 
 <div>
+    <a target="_blank" href="#"> 
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  </a>
   <a target="_blank" href="#">
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+  </a>
+    <a target="_blank" href="#">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   </a>
 </div>
 
