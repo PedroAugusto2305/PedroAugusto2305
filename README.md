@@ -25,10 +25,7 @@ I like computers, engineering and algebra. (not in this order 😅)
 
 <div>
   <a target="_blank" href="#">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  </a>
-  <a target="_blank" href="#">
-    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
   </a>
 </div>
 
